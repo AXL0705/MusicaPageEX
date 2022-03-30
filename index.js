@@ -3,7 +3,7 @@ const morgan = require('morgan');
 const cors = require('cors');
 
 const {mongoose} = require('./database');
-
+//hola
 const app = express();
 //opcion 2 para mandar a llamar el puerto
 //const port = process.env.PORT || 3000;
